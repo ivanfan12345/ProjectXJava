@@ -20,6 +20,7 @@ Data Structures
 	o Minimal Spanning Tree
 - Graphs
 
+
 Algorithms
 - Sorting
 	o Bubble Sort 
