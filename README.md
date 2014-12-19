@@ -1,6 +1,23 @@
 ProjectX
 ========
-Data Structures
+### Algorithms
+- Sorting
+	- Bubble Sort 
+	- Selection Sort
+	- Insertion Sort
+	- Quick Sort
+	- Merge Sort
+- Searching
+    - Linear Search 
+    - Binary Search
+    - BFS
+    - DFS
+- Tree Traversals
+    - Pre-Order
+    - In-Order
+    - Post-Order
+
+### Data Structures
 - Arrays
 - Strings
 - Hash Tables / Maps 
@@ -21,19 +38,4 @@ Data Structures
 - Graphs
 
 
-Algorithms
-- Sorting
-	- Bubble Sort 
-	- Selection Sort
-	- Insertion Sort
-	- Quick Sort
-	- Merge Sort
-- Searching
-    - Linear Search 
-    - Binary Search
-    - BFS
-    - DFS
-- Tree Traversals
-    - Pre-Order
-    - In-Order
-    - Post-Order
+
