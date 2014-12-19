@@ -11,13 +11,13 @@ Data Structures
 - Priority Queues 
 - List
 - Trees
-		o Binary Trees
-		o Binary Search Trees
-		o B-Trees
-		o B+-Trees
-		o Heaps
-		o Binary Heaps
-		o Minimal Spanning Tree
+	-- Binary Trees
+	-- Binary Search Trees
+	-- B-Trees
+	-- B+-Trees
+	-- Heaps
+	-- Binary Heaps
+	-- Minimal Spanning Tree
 - Graphs
 
 
