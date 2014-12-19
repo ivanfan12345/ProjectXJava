@@ -5,6 +5,7 @@ ProjectX
 	- Bubble Sort 
 	- Selection Sort
 	- Insertion Sort
+	- Heap Sort
 	- Quick Sort
 	- Merge Sort
 - Searching
