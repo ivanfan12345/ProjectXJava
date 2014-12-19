@@ -11,23 +11,23 @@ Data Structures
 - Priority Queues 
 - List
 - Trees
-	o Binary Trees
-	o Binary Search Trees
-	o B-Trees
-	o B+-Trees
-	o Heaps
-	o Binary Heaps
-	o Minimal Spanning Tree
+		o Binary Trees
+		o Binary Search Trees
+		o B-Trees
+		o B+-Trees
+		o Heaps
+		o Binary Heaps
+		o Minimal Spanning Tree
 - Graphs
 
 
 Algorithms
 - Sorting
-	o Bubble Sort 
-	o Selection Sort
-	o Insertion Sort
-	o Quick Sort
-	o Merge Sort
+		o Bubble Sort 
+		o Selection Sort
+		o Insertion Sort
+		o Quick Sort
+		o Merge Sort
 - Searching
 	o Linear Search 
 	o Binary Search
