@@ -1,6 +1,7 @@
 ProjectX
 ========
 The goal for this project was to help me brush up on my Algorithms/Data Structures concepts. 
+
 ![alt tag](http://apelbaum.files.wordpress.com/2011/10/yaacovapelbaumbigoplot.jpg)
 
 ========
