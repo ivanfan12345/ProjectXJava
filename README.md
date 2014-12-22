@@ -1,8 +1,8 @@
 ProjectX
 ========
 The goal for this project was to help me brush up on my Algorithms/Data Structures concepts. 
+![alt tag](http://apelbaum.files.wordpress.com/2011/10/yaacovapelbaumbigoplot.jpg)
 
-![alt tag](http://science.slc.edu/~jmarshall/courses/2002/spring/cs50/BigO/running-times.gif)
 ========
 ### Algorithms
 - Sorting
