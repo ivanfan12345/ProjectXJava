@@ -1,4 +1,6 @@
 ProjectX
+The goal for this project was to help me brush up on my Algorithms/Data Structures concepts. 
+
 ========
 ### Algorithms
 - Sorting
