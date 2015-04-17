@@ -1,6 +1,6 @@
 ProjectX
 ========
-The goal for this project was to help me brush up on my Algorithms/Data Structures concepts. 
+Who doesn't like Algorithms/Data Structures concepts? I solved these problems for fun. 
 
 ![alt tag](http://apelbaum.files.wordpress.com/2011/10/yaacovapelbaumbigoplot.jpg)
 
