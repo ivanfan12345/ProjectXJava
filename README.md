@@ -1,6 +1,6 @@
 ProjectX
 ========
-Who doesn't like Algorithms/Data Structures concepts? I solved these problems for fun. 
+Who doesn't like Algorithms & Data Structures? Help me try to understand the universe one line at a time. :D
 
 ![alt tag](http://apelbaum.files.wordpress.com/2011/10/yaacovapelbaumbigoplot.jpg)
 
