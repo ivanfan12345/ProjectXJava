@@ -13,7 +13,11 @@
  *
  */
 public class Hard {
-
-
-
+   
+   public static int (int x , int y)
+   {
+        //1. Write a function that adds two numbers. You should not use + or any arithmetic operators. ; , pg462
+        //Some form of bit shifting.....
+      
+   }
 }
